@@ -1,0 +1,1 @@
+welcome-msg = Hi! I will help you keep track of the <b>current exchange rates</b> in real time.
