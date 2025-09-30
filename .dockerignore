@@ -1,0 +1,15 @@
+node_modules
+dist
+.git
+.gitignore
+.npmrc
+.env
+.env.*
+Dockerfile*
+docker-compose*.yml
+.vscode
+.idea
+*.log
+coverage
+.tmp
+.DS_Store
